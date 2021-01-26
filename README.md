@@ -1,4 +1,4 @@
-# Working Bibliography:
+## Working Bibliography:
 
 McGrayne, S. B. (2006). Nobel Prize women in science: Their lives, struggles, and momentous discoveries. Washington, D.C: Joseph Henry Press.
 
