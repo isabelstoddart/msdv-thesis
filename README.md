@@ -1,5 +1,5 @@
 # Lost to History
-### The Matilda Effect and The Repercussions of Lost Women in History
+### The Matilda Effect and the repercussions of lost women in history
 
 By [Isabel Stoddart](https://www.isabelstoddart.com/) // View Live Project // [Parsons 2021 Data Visualization](https://parsons.nyc/thesis-2021/)
 
