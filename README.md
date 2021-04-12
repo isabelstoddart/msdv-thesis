@@ -1,10 +1,5 @@
-# MSDV Thesis 2021
+# Lost to History
+### The Matilda Effect and The Repercussions of Lost Women in History
 
-## Sections:
-* [Working Source List](https://github.com/isabelstoddart/msdv-thesis/blob/main/workingSourceList.md)
-* [Working Bibliography](https://github.com/isabelstoddart/msdv-thesis/blob/main/WorkingBibliography.md)
-* [Mind Map](https://github.com/isabelstoddart/msdv-thesis/blob/main/MindMapThesisNo2.pdf)
-* [Sketched Wireframes](https://github.com/isabelstoddart/msdv-thesis/blob/main/sketchedWireframes.md)
-* [First Stage Data Flow System Diagram](https://github.com/isabelstoddart/msdv-thesis/blob/main/DataFlowChartVersion1.png)
-* [Prototype Version 1](https://xd.adobe.com/view/aee1fc70-6e7f-45aa-b217-c510e85cf72a-fbb2/?fullscreen)
-
+## Abstract
+Many of the women that have contributed to the scientific field have been lost to history either from their male colleagues taking credit for their work or people deeming their work not important. Women such as Rosalind Franklin, Lisa Meitner, Emilie du Châtelet and many more were lost to history, their contributions to science and technology overlooked. These women were affected by the phenomenon called The Matilda Effect. The Matilda Effect is a bias against acknowledging the achievements of those women scientists whose work is attributed to their male colleagues. This thesis will explore and visualize the connection between The Matilda Effect and women in science today by answering questions such as who the women effected by The Matilda Effect are, what the lasting effects on the world today are, and how female role models can increase the number of girls entering into STEM fields.
