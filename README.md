@@ -9,6 +9,7 @@ Many of the women that have contributed to the scientific field have been lost t
 
 Project Preview
 ------
+![](preview.png)
 
 #### Acknowledgements
 
