@@ -1,7 +1,7 @@
-# Lost to History
+# Where Did All The Great Women Go?
 ### The Matilda Effect and the repercussions of lost women in history
 
-By [Isabel Stoddart](https://www.isabelstoddart.com/) // View Live Project // [Parsons 2021 Data Visualization](https://parsons.nyc/thesis-2021/)
+By [Isabel Stoddart](https://www.isabelstoddart.com/) // [View Live Project](https://isabelstoddart.github.io/matilda-effect/) // [Parsons 2021 Data Visualization](https://parsons.nyc/thesis-2021/)
 
 Abstract
 ------
