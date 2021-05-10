@@ -10,6 +10,9 @@ Many of the women that have contributed to the scientific field have been lost t
 Project Preview
 ------
 ![](preview.png)
+![](documentation/case_study.png)
+![](documentation/nobel.png)
+![](documentation/names.png)
 
 #### Acknowledgements
 
