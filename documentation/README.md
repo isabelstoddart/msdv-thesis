@@ -12,4 +12,4 @@ The data for Where Did All The Great Women Go comes from multiple different sour
 | Directory of Cure Violence program sites | Cure Violence | https://cvg.org/where-we-work/ |
 | Group Violence Intervention sites | National Network for Safe Communities at John Jay College | https://nnscommunities.org/strategies/group-violence-intervention/ |
 | Homicide rates, fatal & non-fatal shootings  | Richmond Police Department Homicide data | n/a |
-| Homicide by firearm rate per 100,000 population in the United States from 2006 to 2018 | Uniform Crime Reporting, FBI Compiled by Statista  | https://www.statista.com/statistics/249805/homicide-by-firearm-rate-in-the-united-states/ |
+| Homicide by firearm rate per 100,000 population in the United States from 2006 to 2018 | Uniform Crime Reporting, FBI Compiled by Statista  | https://www.statista.com/statistics/249805/homicide-by-firearm-rate-in-the-united-states/ | hello
