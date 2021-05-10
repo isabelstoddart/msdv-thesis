@@ -18,6 +18,8 @@ Project Preview
 
 Thank you to Daniel Sauter, Aaron Hill, and Richard The for your guidance and support this past year. 
 
+My fellow classmates for inspiring me and fostering my love of data visualization.
+
 Gina Walker and The New Historia for inspiring me to spread awareness around lost women in history and female historical recovery.
 
 Pam Stoddart and Tim Stoddart (Mom and Dad) and Frank Trantanella (Papa) for supporting me and believing in me with everything I do.
