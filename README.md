@@ -16,4 +16,10 @@ Project Preview
 
 #### Acknowledgements
 
+Thank you to Daniel Sauter, Aaron Hill, and Richard The for your guidance and support this past year. 
+
+Gina Walker and The New Historia for inspiring me to spread awareness around lost women in history and female historical recovery.
+
+Pam Stoddart and Tim Stoddart (Mom and Dad) for supporting me and believing in me with everything I do.
+
 ###### Submitted in partial fulfillment of the requirements for the degree of Master of Science in Data Visualization at Parsons School of Design // May 2021
