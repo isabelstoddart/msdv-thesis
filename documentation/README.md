@@ -14,3 +14,16 @@ The data for Where Did All The Great Women Go comes from multiple different sour
 | Statistics on Fields Medals | Amount of women who received Fields Medals and descriptions of them pulled from an article on the Fields Medal | https://www.nature.com/articles/d41586-020-01681-2#:~:text=Maryam%20Mirzakhani%20broke%20into%20the,Fields%20Medal%2C%20established%20in%201936. |
 | Statistics on Nobel Prizes in Medicine, Chemistry, and Physics | Amount of women who received the Nobel Prize in Medicine, Chemistry, and Physics pulled from an article on the Nobel Prize | https://apnews.com/article/nobel-prizes-chemistry-archive-3227341e3086af0cfee34a695416eeb9#:~:text=In%201983%2C%20Barbara%20McClintock%20won,chemistry%20and%20four%20in%20physics. |
 | Biographies of women affected by The Matilda Effect | Bios were pulled from multiple different sources | Hedy Lamarr, Vera Rubin, Chien-Shiung Wu, Ada Lovelace, Katherine Johnson (https://www.marieclaire.com/culture/g5026/female-discoveries-credited-to-men/?slide=1), Trotula of Salerno (https://thebestschools.org/magazine/brilliant-woman-greedy-men/), Maria Merian (https://www.biography.com/news/alice-ball-female-scientists) |
+
+### Case Study Data
+
+### Bachelor's Degrees Data
+
+### Occupations Data
+
+### Libraries and Media
+
+Where Did All The Great Women Go was developed using vanilla JavaScript. The project is deployed using github pages. The following libraries were used to create visualizations and interactions of the visual essay:
+
+* graph-scroll.js - used to run all of the transitions in the visualization and create the sticky element for scrolling.
+* D3.js - used to create most of the visualizations, particularly the grid of women, scientists taucase study visual, 
