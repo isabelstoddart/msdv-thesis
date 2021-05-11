@@ -21,7 +21,7 @@ Study was conducted at the Department of Business Economics, School of Business 
 
 ### Online Science Curriculums Data
 
-The data on online science curriculums was manually compiled from 5 children's education websites (thebestschools.org, Dorling Kindersley, educationworld.com, Teach with Fergy, famousscientists.org). Each website had a list of scientists to teach about in the classroom. The amount of females/males per list was pulled and added manually to an excel sheet and saved as an csv to create the final dataset.
+The data on online science curriculums was manually compiled from 5 children's education websites (thebestschools.org, Dorling Kindersley, educationworld.com, Teach with Fergy, famousscientists.org). Each website had a list of scientists to teach about in the classroom. The amount of females/males per list was pulled and added manually to an excel sheet and saved as an csv file to create the final dataset.
 
 ### Awards Data
 
@@ -29,7 +29,7 @@ The data on the amount of women/men who were awarded the Turing Award, Fields Me
 
 ### Bios of Women
 
-The bios of the women were manually compiled from several different websites and added to an excel sheet. The excel sheet was changed to a json which was used for the final grid visualization.
+The bios of the women were manually compiled from several different websites and added to an excel sheet. The excel sheet was changed to a json file which was used for the final grid visualization.
 
 ### Libraries and Media
 
