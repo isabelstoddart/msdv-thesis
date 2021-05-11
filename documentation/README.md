@@ -25,7 +25,7 @@ The data on online science curriculums was manually compiled from 5 children's e
 
 ### Awards Data
 
-The data on the amount of women/men who were awarded the Turing Award, Fields Medal, and Nobel Prize in Medicine, Chemistry, and Physics were manually compiled from multiple different websites and used to create the SVG based visualizations.
+The data on the number of women/men who were awarded the Turing Award, Fields Medal, and Nobel Prize in Medicine, Chemistry, and Physics were manually compiled from multiple different websites and used to create the SVG based visualizations.
 
 ### Bios of Women
 
