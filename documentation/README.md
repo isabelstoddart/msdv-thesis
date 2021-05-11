@@ -26,4 +26,8 @@ The data for Where Did All The Great Women Go comes from multiple different sour
 Where Did All The Great Women Go was developed using vanilla JavaScript. The project is deployed using github pages. The following libraries were used to create visualizations and interactions of the visual essay:
 
 * graph-scroll.js - used to run all of the transitions in the visualization and create the sticky element for scrolling.
-* D3.js - used to create most of the visualizations, particularly the grid of women, scientists taucase study visual, 
+* D3.js - used to create all visuals except for the awards visuals
+
+All photos of the women were taken from creative commons and are CC0 and public domain.
+
+SVG based illustrations (all awards visualizations and final visual of the women's names) were created in Adobe Illustrator.
